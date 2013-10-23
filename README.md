@@ -1,4 +1,4 @@
-hangman
+Hangman
 =======
 
 A command-line hangman game in Ruby. Features: 
